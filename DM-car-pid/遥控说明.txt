@@ -1,0 +1,2 @@
+esp32-c3mini参考：https://github.com/xiaocainiao11111/ESP32_connect_XboxController
+接线： 21-->rx
